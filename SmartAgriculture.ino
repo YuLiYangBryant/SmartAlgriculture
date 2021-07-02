@@ -1,4 +1,3 @@
-// 文彥的專題
 #include <LWiFi.h>
 #include <WiFiClient.h>
 #include "MCS.h"
